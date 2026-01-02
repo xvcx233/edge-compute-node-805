@@ -1,0 +1,1 @@
+const service_pksu = <T>(args: T): T => { return args; };
