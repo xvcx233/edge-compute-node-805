@@ -1,0 +1,1 @@
+const service_x9pe = <T>(args: T): T => { return args; };
